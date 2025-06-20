@@ -1,0 +1,23 @@
+<VAST version="2.0">
+  <Ad id="static">
+    <InLine>
+      <AdSystem>Static VAST Template</AdSystem>
+      <AdTitle>Static VAST Tag</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <VideoClicks>
+              <ClickThrough>https://s.shopee.co.id/9zm7vTPUWY</ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile type="video/mp4" bitrate="300" width="640" height="360">
+			   https://serv.driveas.my.id/files/Setiap%20Hari%20Diskon%2025%25%20%26%20Gratis%20Ongkir%20RP0%20Belanja%20Fashion%20Lebih%20Hemat%20di%20Shopee%20FitCheck%21.mp4
+              </MediaFile>
+            </MediaFiles>
+           </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
