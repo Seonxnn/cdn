@@ -1,0 +1,23 @@
+<VAST version="2.0">
+  <Ad id="static">
+    <InLine>
+      <AdSystem>Static VAST Template</AdSystem>
+      <AdTitle>Static VAST Tag</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <VideoClicks>
+              <ClickThrough>https://s.shopee.co.id/9zm7vTPUWY</ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile type="video/mp4" bitrate="300" width="640" height="360">
+			   https://serv.driveas.my.id/files/videoplayback1.mp4
+              </MediaFile>
+            </MediaFiles>
+           </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
